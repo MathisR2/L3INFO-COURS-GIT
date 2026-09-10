@@ -1,4 +1,4 @@
-#test
+#test3 donc c4
 dic={'t' : 3, 'kg' : 2, 'g' : 1}
 def convertion(poids : int, unite : str, unite2 : str) : 
     if unite in dic.keys():
